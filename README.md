@@ -15,4 +15,6 @@
 - [PCA Python Intro](https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6).
 - [PCAtools with R](https://github.com/kevinblighe/PCAtools).
 - [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks).
-- [Examples with TCGAbiolinks](http://bioinformaticsfmrp.github.io/TCGAbiolinks/casestudy.html).
+- ~~[Examples with TCGAbiolinks](http://bioinformaticsfmrp.github.io/TCGAbiolinks/casestudy.html) (link lost)~~.
+- [comprehensive example of TCGAbiolinks](https://rdrr.io/bioc/TCGAbiolinks/). 
+- [Main API of TCGAbiolinks](https://bioc.ism.ac.jp/packages/3.2/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html).
