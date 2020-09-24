@@ -14,7 +14,8 @@ library(SummarizedExperiment)
 library(dplyr)
 library(DT)
 
-# You can define a list of samples to query and download providing relative TCGA barcodes.
+# You can define a list of samples to query and download providing relative TCGA barcodes. 10 patients
+
 listSamples <- c("TCGA-E9-A1NG-11A-52R-A14M-07","TCGA-BH-A1FC-11A-32R-A13Q-07",
                  "TCGA-A7-A13G-11A-51R-A13Q-07","TCGA-BH-A0DK-11A-13R-A089-07",
                  "TCGA-E9-A1RH-11A-34R-A169-07","TCGA-BH-A0AU-01A-11R-A12P-07",
