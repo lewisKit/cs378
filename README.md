@@ -24,5 +24,5 @@
 - [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks). 
 - [TCGAbiolinks Tutorials](https://rdrr.io/bioc/TCGAbiolinks/).
 - [TCGAbiolinksGUI](https://rdrr.io/bioc/TCGAbiolinks/f/vignettes/gui.Rmd).
-- [Example Codes](./example_codes/TCGAbiolinks_example_codes.R).
+- [Example Codes of TCGAbiolinks](./example_codes/TCGAbiolinks_example_codes.R).
 - [Odyssey](https://github.com/Orion1618/Odyssey).
