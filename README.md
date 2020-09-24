@@ -18,3 +18,11 @@
 - ~~[Examples with TCGAbiolinks](http://bioinformaticsfmrp.github.io/TCGAbiolinks/casestudy.html) (link lost)~~.
 - [comprehensive example of TCGAbiolinks](https://rdrr.io/bioc/TCGAbiolinks/). 
 - [Main API of TCGAbiolinks](https://bioc.ism.ac.jp/packages/3.2/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html).
+
+
+### Lab4: TCGAbiolinks / Odyssey (09/24/2020)
+- [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks)
+- [TCGAbiolinks Tutorials](https://rdrr.io/bioc/TCGAbiolinks/)
+- [TCGAbiolinksGUI](https://rdrr.io/bioc/TCGAbiolinks/f/vignettes/gui.Rmd)
+- [Example Codes](./example_codes/TCGAbiolinks_example_codes.R)
+
