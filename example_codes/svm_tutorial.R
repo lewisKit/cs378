@@ -1,3 +1,5 @@
+library(e1071)
+
 data(iris)
 attach(iris)
 
