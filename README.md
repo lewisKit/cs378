@@ -33,3 +33,4 @@
 - [Tutorial1](https://rdrr.io/rforge/e1071/f/inst/doc/svminternals.pdf).
 - [Tutorial2](https://rdrr.io/rforge/e1071/f/inst/doc/svmdoc.pdf).
 - [Example code](./example_codes/svm_tutorial.R).
+- [Python Tutorial with SVM](https://scikit-learn.org/stable/modules/svm.html).
