@@ -29,7 +29,7 @@
 
 
 ### Lab5: Support Vector Machine (10/20/2020)
-- [R packages with SVM](https://www.rdocumentation.org/packages/e1071/versions/1.7-4/topics/svm).
+- [R packages with SVM](https://rdrr.io/rforge/e1071/man/svm.html).
 - [Tutorial1](https://rdrr.io/rforge/e1071/f/inst/doc/svminternals.pdf).
 - [Tutorial2](https://rdrr.io/rforge/e1071/f/inst/doc/svmdoc.pdf).
 - [Example code](./example_codes/svm_tutorial.R).
