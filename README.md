@@ -38,7 +38,7 @@
 
 ### Lab6: UCSC Genome Browser (10/22/2020)
 - [Online Training and Tutorials](http://genome.ucsc.edu/training/)
-- [Browser Basics, Part One: Getting around in the Browser](https://www.youtube.com/watch?v=NBDMNv2KFik&feature=youtu.be&list=UUQnUJepyNOw0p8s2otX4RYQ)
+- [Browser Basics, Part One](https://www.youtube.com/watch?v=NBDMNv2KFik&feature=youtu.be&list=UUQnUJepyNOw0p8s2otX4RYQ)
 - [Browser Basics, Part Two](https://www.youtube.com/watch?v=cYys5iXN0NY&feature=youtu.be&list=UUQnUJepyNOw0p8s2otX4RYQ)
 - [Browser Basics, Part Three](https://www.youtube.com/watch?v=I25Q136d6NU&feature=youtu.be&list=UUQnUJepyNOw0p8s2otX4RYQ)
 - [Coronavirus Browser SARS-CoV-2](https://www.youtube.com/watch?v=Ee6h0xyZDOM&feature=youtu.be&list=UUQnUJepyNOw0p8s2otX4RYQ)
