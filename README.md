@@ -44,5 +44,8 @@
 - [Coronavirus Browser SARS-CoV-2](https://www.youtube.com/watch?v=Ee6h0xyZDOM&feature=youtu.be&list=UUQnUJepyNOw0p8s2otX4RYQ)
 
 
-
+### Lab7: Gene Set Enrichment Analysis / Sequence Alignment (10/29/2020)
+- [GSEA Introduction](https://www.youtube.com/watch?v=KY6SS4vRchY)
+- [FGSEA](https://github.com/ctlab/fgsea)
+- [FGSEA Tutorial](http://bioconductor.org/packages/devel/bioc/vignettes/fgsea/inst/doc/fgsea-tutorial.html)
 
