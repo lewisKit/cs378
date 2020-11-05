@@ -49,3 +49,10 @@
 - [FGSEA](https://github.com/ctlab/fgsea)
 - [FGSEA Tutorial](http://bioconductor.org/packages/devel/bioc/vignettes/fgsea/inst/doc/fgsea-tutorial.html)
 
+
+
+# Lab8: Pymol (11/05)
+- [Pymol Installation](https://pymol.org/2/).
+- [Tutorial 1](https://www.youtube.com/watch?v=h5wKppcyzOw).
+- [Tutorial 2](https://www.youtube.com/watch?v=mBlMI82JRfI).
+
