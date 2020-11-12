@@ -56,3 +56,12 @@
 - [Tutorial 1](https://www.youtube.com/watch?v=h5wKppcyzOw).
 - [Tutorial 2](https://www.youtube.com/watch?v=mBlMI82JRfI).
 
+# Lab9/Lab10: Seurat / Signac (11/10 and 11/12)
+- [Seurat Installation](https://satijalab.org/seurat/install.html). If you can not compile during the installation, you can try to update your gfortran or contact TA to solve the problem.
+- [All tutorials](https://satijalab.org/seurat/vignettes.html).
+- [PBMC scATAC-seq Vignette](https://satijalab.org/seurat/v3.2/atacseq_integration_vignette.html).
+- [Signac Installation](https://satijalab.org/signac/articles/install.html).
+- [Motif analysis with Signac](https://satijalab.org/signac/articles/motif_vignette.html).
+
+
+
