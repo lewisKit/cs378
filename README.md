@@ -65,3 +65,5 @@
 
 
 
+### Lab11: Computer Lab Info from UTCS (11/17)
+- [Computer Lab Information](./example_codes/lab_info.md)
