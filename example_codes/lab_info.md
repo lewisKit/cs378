@@ -10,7 +10,7 @@
 
 [https://apps.cs.utexas.edu/unixlabstatus/](https://apps.cs.utexas.edu/unixlabstatus/)
 
-You will need [VUTPN](https://wikis.utexas.edu/display/engritgpublic/Connecting+to+the+University+of+Texas+VPN) if you want to login remotely (out of campus).
+You will need [VT VPN](https://wikis.utexas.edu/display/engritgpublic/Connecting+to+the+University+of+Texas+VPN) if you want to login remotely (out of campus).
 
 login cmd
 
